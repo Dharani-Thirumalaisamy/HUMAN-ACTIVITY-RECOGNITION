@@ -15,3 +15,6 @@ The target here is to classify them into <b>6 categories</b>.
 <li>Walking_upstairs<br>
 </li>
 </ol>
+
+<b><i> The link to data visualisation using tableau is : https://public.tableau.com/views/HUMANACTIVITYRECOGNITION/HAR?:embed=y&:display_count=yes&publish=yes
+  </i></b>
